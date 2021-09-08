@@ -28,6 +28,10 @@ h1:hover {
     background-color: darkviolet;
 }
 
+#hierarchy {
+    background-color: black;
+}
+
 h2:hover {
     color:black;
 }
