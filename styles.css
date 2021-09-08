@@ -12,6 +12,8 @@ h2 {
     background-color: #0000ff;
     background: #0000ff;
     border: 10px blue;
+    width: 5px;
+    height: 10px;
 }
 
 h1:hover {
@@ -24,4 +26,24 @@ h1:hover {
 
 #thirdh2 {
     background-color: darkviolet;
+}
+
+h2:hover {
+    color:black;
+}
+
+p:hover {
+    color: black;
+}
+
+body:hover {
+    color: black;
+}
+
+h3 {
+    color: beige;
+}
+
+h4 {
+    color: yellow;
 }
