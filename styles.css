@@ -1,0 +1,27 @@
+body {
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: blueviolet;
+    background: darkgreen;
+}
+
+h2 {
+    font: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #0000ff;
+    background: #0000ff;
+    border: 10px blue;
+}
+
+h1:hover {
+    color: darkblue;
+}
+
+.thirdpage {
+    background-color: coral;
+}
+
+#thirdh2 {
+    background-color: darkviolet;
+}
