@@ -6,6 +6,14 @@ body {
     background: darkgreen;
 }
 
+h1 {
+    font: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    background-color: yellow;
+    background: fixed;
+}
+
 h2 {
     font: 200;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
