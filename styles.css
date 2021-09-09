@@ -30,6 +30,7 @@ h1:hover {
 
 .thirdpage {
     background-color: coral;
+    color: blue;
 }
 
 .firstpage {
@@ -66,4 +67,12 @@ h4 {
 
 h2 {
     font: 100;
+}
+
+div p {
+    font-size: 100px;
+}
+
+div > p {
+    font-size: 100px;
 }
