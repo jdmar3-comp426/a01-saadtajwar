@@ -1,0 +1,78 @@
+body {
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: blueviolet;
+    background: darkgreen;
+}
+
+h1 {
+    font: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    background-color: yellow;
+    background: fixed;
+}
+
+h2 {
+    font: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #0000ff;
+    background: #0000ff;
+    border: 10px blue;
+    width: 5px;
+    height: 10px;
+}
+
+h1:hover {
+    color: darkblue;
+}
+
+.thirdpage {
+    background-color: coral;
+    color: blue;
+}
+
+.firstpage {
+    background-color: wheat;
+}
+
+#thirdh2 {
+    background-color: darkviolet;
+}
+
+#hierarchy {
+    background-color: black;
+}
+
+h2:hover {
+    color:black;
+}
+
+p:hover {
+    color: black;
+}
+
+body:hover {
+    color: black;
+}
+
+h3 {
+    color: beige;
+}
+
+h4 {
+    color: yellow;
+}
+
+h2 {
+    font: 100;
+}
+
+div p {
+    font-size: 100px;
+}
+
+div > p {
+    font-size: 100px;
+}
